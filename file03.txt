@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #file03 testing 
 
+=======
+#File03 under the testing branch
+>>>>>>> testing-new-files

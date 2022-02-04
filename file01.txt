@@ -1,2 +1,5 @@
 #file01 Miscellaneous content
+<<<<<<< HEAD
 #step 11 lab 4
+=======
+>>>>>>> testing-new-files
